@@ -24,7 +24,7 @@ The project is aimed at providing a low-cost, scalable, and efficient solution f
 🛠️ Hardware Components
 
 ESP32 / ESP8266 (NodeMCU)
-
+ 
 DHT22 Temperature & Humidity Sensor
 
 Wind Speed Sensor (Anemometer)
